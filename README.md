@@ -3,7 +3,7 @@
 
 I used Tableau to analysis the primary features of overall traffic accidents in the US.
 
-![[images/{715BE6E2-D56D-40E7-902F-DBB0F7D1543B}.png]]
+![images/{715BE6E2-D56D-40E7-902F-DBB0F7D1543B}.png]
 
 
 1. **Focus Areas**:
